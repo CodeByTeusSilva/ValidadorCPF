@@ -1,0 +1,7 @@
+*.xml
+/bin
+/lib
+/.idea
+/.vscode
+/out
+*.iml
