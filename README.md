@@ -18,38 +18,38 @@ O projeto Validador de CPF é uma biblioteca Java que permite a validação de n
 
 ### Versões
 <details>
-        <summary>ValidadorCPF_v1 (Não recomendada)</summary>
+<summary>ValidadorCPF_v1 (Não recomendada)</summary>
 
-                - ➡️ ValidadorCPF_v1
-                    - 🔸 A versão 1 do Validador de CPF é considerada precária e não deve ser utilizada. 
-                    O código dessa versão apresenta problemas de legibilidade, manutenção e eficiência. 
-                    Além disso, não possui tratamento adequado para exceções e pode gerar resultados 
-                    inconsistentes. 
+        - ➡️ ValidadorCPF_v1
+                - 🔸 A versão 1 do Validador de CPF é considerada precária e não deve ser utilizada. 
+                O código dessa versão apresenta problemas de legibilidade, manutenção e eficiência. 
+                Além disso, não possui tratamento adequado para exceções e pode gerar resultados 
+                inconsistentes. 
 
-                    Recomendamos que você evite utilizar essa versão e opte pela versão 2, 
-                    que traz melhorias significativas.
+                Recomendamos que você evite utilizar essa versão e opte pela versão 2, 
+                que traz melhorias significativas.
 </details>
 <details>
-          <summary>ValidadorCPF_v2 (Recomendado) </summary>
+<summary>ValidadorCPF_v2 (Recomendado) </summary>
 
-                  - ➡️ ValidadorCPF_v2
-                      - 🔸 A versão 2 do Validador de CPF representa uma melhoria significativa em relação 
-                      à versão anterior. O código foi reescrito com foco na clareza, organização e eficiência. 
-                      Ele utiliza boas práticas de programação, possui tratamento adequado de exceções e 
-                      implementa algoritmos otimizados para validar os dígitos verificadores do CPF.
+        - ➡️ ValidadorCPF_v2
+                - 🔸 A versão 2 do Validador de CPF representa uma melhoria significativa em relação 
+                à versão anterior. O código foi reescrito com foco na clareza, organização e eficiência. 
+                Ele utiliza boas práticas de programação, possui tratamento adequado de exceções e 
+                implementa algoritmos otimizados para validar os dígitos verificadores do CPF.
 
-                      Ao utilizar a versão 2, você pode esperar um código mais limpo, legível e de fácil 
-                      manutenção. Além disso, essa versão foi aprimorada para oferecer maior precisão e 
-                      confiabilidade na validação de CPFs.
+                Ao utilizar a versão 2, você pode esperar um código mais limpo, legível e de fácil 
+                manutenção. Além disso, essa versão foi aprimorada para oferecer maior precisão e 
+                confiabilidade na validação de CPFs.
 
-                      Recomendamos o uso da versão 2 do Validador de CPF em seus projetos, aproveitando 
-                      as melhorias introduzidas para obter resultados mais consistentes e confiáveis na 
-                      validação de CPFs.
+                Recomendamos o uso da versão 2 do Validador de CPF em seus projetos, aproveitando 
+                as melhorias introduzidas para obter resultados mais consistentes e confiáveis na 
+                validação de CPFs.
 </details>
 <details>
-          <summary>API de Validação de CPF - Em Breve </summary>
+<summary>API de Validação de CPF - Em Breve </summary>
 
-                  - ➡️ Em Breve...
+        - ➡️ Em Breve...
 </details>
 
 ---
