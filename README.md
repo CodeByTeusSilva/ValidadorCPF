@@ -54,6 +54,27 @@ O projeto Validador de CPF é uma biblioteca Java que permite a validação de n
 
 ---
 
+### Diagrama de Classe(s)
+
+```mermaid
+classDiagram
+    class ValidadorCPF_v2 {
+        - cpf: String
+        + ValidadorCPF_v2(cpf: String)
+        + verificarTodosNumerosIguais(cpf: String): boolean
+        + transformarInt(cpf: String): List<Integer>
+        + verificarDigitoUm(): boolean
+        + verificarDigitoDois(): boolean
+        + validacaoFinal(): boolean
+    }
+
+    class Application {
+        + main(args: String[])
+    }
+```
+
+---
+
 ### Uso
 
 A classe principal deste projeto é a `ValidadorCPF_v2`, que possui os métodos necessários para a validação de CPF. Siga as instruções abaixo para utilizar a biblioteca em seu projeto:
